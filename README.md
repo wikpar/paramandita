@@ -1,4 +1,2 @@
 # paramandita
-my Bio
-Born in Bali
-Father & Husband
+| my Bio | Born in Bali | Father & Husband |
